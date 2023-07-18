@@ -19,7 +19,7 @@ export default [
         startDate: "3 Jun, 2023",
         endDate: "",
         description: "In a nail-biting match, the Florida Gators fell 5-4 to the Texas Tech Red Raiders in the Gainesville regional. Despite a strong start, the Gators couldn't capitalize on crucial moments, with Texas Tech's Gavin Kash's two-run homer in the eighth inning proving decisive. The Gators now face elimination, needing victories against both UConn and Texas Tech to vie for the regional title.",
-        imageUrl: {condronBallpark}
+        imageUrl: condronBallpark
     },
     {
         id: 3,
