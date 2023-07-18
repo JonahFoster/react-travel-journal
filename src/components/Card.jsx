@@ -1,4 +1,4 @@
-import locationIcon from "./images/location-icon.svg"
+import locationIcon from "../images/location-icon.svg"
 
 export default function Card(props) {
     return (
