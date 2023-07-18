@@ -4,7 +4,7 @@ export default function Card(props) {
             <img className="card-img" src={props.item.imageUrl}/>
             <div className="card-info">
                 <div className="card-location-info">
-                    <img src=".\src\images\location-icon.svg" className="card-location-icon"/>
+                    <img src="./src/images/location-icon.svg" className="card-location-icon"/>
                     <p className="card-location">{props.item.location.toUpperCase()}</p>
                     <a href={props.item.googleMapsUrl}>
                         <p className="card-maps">View on Google Maps</p>   
