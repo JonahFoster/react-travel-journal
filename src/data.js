@@ -1,3 +1,5 @@
+import condronBallpark from 'src/images/condron-ballpark.jpg'
+
 export default [
     {
         id: 1,
@@ -11,13 +13,13 @@ export default [
     },
     {
         id: 2,
-        title: "Sydney Opera House",
-        location: "Australia",
-        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
-        startDate: "27 May, 2021",
-        endDate: "8 Jun, 2021",
-        description: "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings.",
-        imageUrl: "https://source.unsplash.com/JmuyB_LibRo"
+        title: "2023 CWS Regional",
+        location: "Gainesville, Florida",
+        googleMapsUrl: "https://goo.gl/maps/jZfE4P9HbcZVUapc9",
+        startDate: "3 Jun, 2023",
+        endDate: "",
+        description: "In a nail-biting match, the Florida Gators fell 5-4 to the Texas Tech Red Raiders in the Gainesville regional. Despite a strong start, the Gators couldn't capitalize on crucial moments, with Texas Tech's Gavin Kash's two-run homer in the eighth inning proving decisive. The Gators now face elimination, needing victories against both UConn and Texas Tech to vie for the regional title.",
+        imageUrl: {condronBallpark}
     },
     {
         id: 3,
