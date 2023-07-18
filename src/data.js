@@ -1,4 +1,4 @@
-import condronBallpark from 'src/images/condron-ballpark.jpg'
+import condronBallpark from './images/condron-ballpark.jpg'
 
 export default [
     {
