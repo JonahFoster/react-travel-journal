@@ -3,7 +3,7 @@ import condronBallpark from './images/condron-ballpark.jpg'
 export default [
     {
         id: 1,
-        title: "Animal Kingdom at Disney World",
+        title: "Animal Kingdom",
         location: "Orlando, Florida",
         googleMapsUrl: "https://goo.gl/maps/gGGPsM49KwDeXzRn9",
         startDate: "6 Jun, 2023",
