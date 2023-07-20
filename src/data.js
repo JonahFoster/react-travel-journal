@@ -1,5 +1,4 @@
 import condronBallpark from './images/condron-ballpark.jpg'
-import animalKingdom from './images/animalkingdom.jpeg'
 
 export default [
     {
@@ -10,7 +9,7 @@ export default [
         startDate: "6 Jun, 2023",
         endDate: "",
         description: "Disney's Animal Kingdom, a 500-acre park in Walt Disney World, Florida, is a unique blend of thrilling rides, live shows, and exotic animals. Opened in 1998, it's the largest Disney theme park worldwide, offering an immersive wildlife experience.",
-        imageUrl: animalKingdom
+        imageUrl: "https://unsplash.com/photos/lMQhzzEGtiU"
     },
     {
         id: 2,
