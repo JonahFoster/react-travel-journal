@@ -3,6 +3,16 @@ import condronBallpark from './images/condron-ballpark.jpg'
 export default [
     {
         id: 1,
+        title: "Hollywood Studios",
+        location: "Orlando, Florida",
+        googleMapsUrl: "https://goo.gl/maps/Bf72onCi8R4ZaVhUA",
+        startDate: "30 July, 2023",
+        endDate: "",
+        description: "Hollywood Studios at Walt Disney World celebrates the entertainment industry. Opened in 1989, it features attractions based on movies and TV.",
+        imageUrl: "https://source.unsplash.com/3bETLGHcAUU"
+    },
+    {
+        id: 2,
         title: "Epcot",
         location: "Orlando, Florida",
         googleMapsUrl: "https://goo.gl/maps/BJXrHopYUxV5poPw5",
@@ -12,7 +22,7 @@ export default [
         imageUrl: "https://source.unsplash.com/6ewxojjWaCc"
     },
     {
-        id: 2,
+        id: 3,
         title: "Animal Kingdom",
         location: "Orlando, Florida",
         googleMapsUrl: "https://goo.gl/maps/gGGPsM49KwDeXzRn9",
@@ -22,7 +32,7 @@ export default [
         imageUrl: "https://source.unsplash.com/yX9Xm_TpbHA"
     },
     {
-        id: 3,
+        id: 4,
         title: "2023 CWS Regional",
         location: "Gainesville, Florida",
         googleMapsUrl: "https://goo.gl/maps/jZfE4P9HbcZVUapc9",
